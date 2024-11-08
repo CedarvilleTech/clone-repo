@@ -6,3 +6,4 @@
 2. Gabby was here.
 3. Micah was here.
 4. Jade was here.
+5. Clara was here.
