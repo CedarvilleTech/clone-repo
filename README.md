@@ -3,3 +3,4 @@
 ## Members
 
 1. Daniel was here.
+2. Trent was here.
